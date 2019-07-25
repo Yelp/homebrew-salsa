@@ -3,8 +3,8 @@ class Salsa < Formula
   homepage "https://github.com/Yelp/salsa"
   url "https://github.com/Yelp/salsa.git",
     :using => :git,
-    :tag => 'v0.6.2'
-  version "0.6.2"
+    :tag => 'v0.7.0'
+  version "0.7.0"
   depends_on :xcode => "9.3"
   
   def install
